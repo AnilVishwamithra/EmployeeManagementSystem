@@ -1,6 +1,6 @@
 # EmployeeManagementSystem
 
-Developed A EmployeeManagementSystem(EMS) using below mentioned Technologies
+Developed a EmployeeManagementSystem(EMS) using below mentioned Technologies
 
 
 FRONTEND TOOLS:
